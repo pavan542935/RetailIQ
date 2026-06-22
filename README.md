@@ -220,10 +220,8 @@ retailiq/
 
 ## Author
 
-**Hari K**
+**Sai pavan**
 
-- LinkedIn: [linkedin.com/in/hari-k-83569a31b](https://www.linkedin.com/in/hari-k-83569a31b)
-- GitHub: [github.com/HXRIkumar](https://github.com/HXRIkumar)
 
 ## License
 
